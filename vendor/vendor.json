@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "cCqD3sZsErxICs5C1AuNzBSikBE=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "9f049671f18633e0991c2cbc2bebc81e0b3c402c",
+			"revisionTime": "2018-12-10T08:02:29Z"
+		},
+		{
+			"checksumSHA1": "0Hvy6LfJa1y54UxQ2zQtcMd6ZKU=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "5c8c8bd35d3832f5d134ae1e1e375b69a4d25242",
+			"revisionTime": "2018-10-04T22:41:46Z"
+		}
+	],
+	"rootPath": "github.com/chauncy"
+}
