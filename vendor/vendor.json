@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "h+whaBdd2wWZvvoxINMqX8ieIMM=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "9f049671f18633e0991c2cbc2bebc81e0b3c402c",
+			"revisionTime": "2018-12-10T08:02:29Z"
+		},
+		{
+			"checksumSHA1": "l7HV/d83iLeTeOicvJYfnG9beig=",
+			"path": "github.com/weilaihui/goconfig/config",
+			"revision": "5eb5594b15a370066c71ce8c508c5d08b9d56edd",
+			"revisionTime": "2012-03-11T13:22:36Z"
+		},
+		{
+			"checksumSHA1": "ZaU56svwLgiJD0y8JOB3+/mpYBA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "43af749e3f3df0cf28a18ffb7754f4a6b66b8a93",
+			"revisionTime": "2017-09-12T10:23:59Z"
+		},
+		{
+			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "43af749e3f3df0cf28a18ffb7754f4a6b66b8a93",
+			"revisionTime": "2017-09-12T10:23:59Z"
+		}
+	],
+	"rootPath": "github.com/fastdfs-go"
+}
